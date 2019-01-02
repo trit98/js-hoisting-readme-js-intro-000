@@ -6,7 +6,7 @@ function callMe() {
   console.log("so call me");
   return lyric;
 }
-  
+
 
 function crazy() {
   // fix the code in here:
@@ -20,7 +20,6 @@ function sayMyName() {
   // fix the code in here:
 
   sayMy();
-  var name = "Cricky";
   function sayMy() {
     console.log(name);
     var name = "Kristin";
